@@ -1,2 +1,1 @@
-# git-text
-git testing
+this is the web site for sts
